@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Emre👋🏻
 
-<!--
-**emre4809/emre4809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Enthusiastic recent graduate Data Science student with a passion for using data to drive insights and solve real-world problems. Throughout my academic years, I've gained valuable understanding of topics like data analysis, machine learning, and AI, making me want to contribute my skills to my future work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus  
+- Currently working on a data analysis / web scraping project
+- Deepening my understanding of ML tools and libraries 
+- Learning different online tools like AWS and PowerBI  
+
+## 🛠️ Skills
+- **Languages:** Python, SQL, R, HTML, CSS, Javascript
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, Keras
+- Data Processing: Pandas, NumPy, Apache Spark
+- Cloud: AWS
+- Visualization: Matplotlib, Seaborn, Plotly, PowerBI
+- Big Data: Hadoop, DynamoDB
+
+## 🎓 Education  
+- **Bachelor's Degree** in **Data Science** @ **TU Eindhoven** (2021-2025)  
+- **Minor** in **Technology Entrepreneurship**
+
+## 💼 Experience  
+### **Project Assistant** @ **KoçDigital** (2024 summer internship)  
+- Collaborated on developing a chatbot using OpenAI’s GPT models, enabling it to generate and execute SQL queries from natural language inputs.
+- Utilized tools like LangChain and LangGraph to streamline the interaction between the chatbot and the PostgreSQL database I created, enhancing the overall workflow.
+- Worked on increasing the chatbot’s accuracy by different methods, such as experimenting with different system prompts, defining new tools, simplifying the database schema, and more.
+
+### **Research Project** @ **TU/e** (Dec 2024 - now)
+- Collaborating with an assistant professor and a postdoctoral researcher at TU/e to analyze differences between legal documents and assess the impact of public feedback on legislative changes.
+- Applied Python libraries BeatifulSoup and PyMuPDF for plain text conversion, and used regex to extract and compare legal text for detailed analysis.
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-sarp-kamal-9369052b4)  
