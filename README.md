@@ -12,10 +12,10 @@ Enthusiastic recent graduate Data Science student with a passion for using data 
 ## 🛠️ Skills
 - **Languages:** Python, SQL, R, HTML, CSS, Javascript
 - **ML/AI:** PyTorch, TensorFlow, scikit-learn, Keras
-- Data Processing: Pandas, NumPy, Apache Spark
-- Cloud: AWS
-- Visualization: Matplotlib, Seaborn, Plotly, PowerBI
-- Big Data: Hadoop, DynamoDB
+- **Data Processing:** Pandas, NumPy, Apache Spark
+- **Cloud:** AWS
+- **Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
+- **Big Data:** Hadoop, DynamoDB
 
 ## 🎓 Education  
 - **Bachelor's Degree** in **Data Science** @ **TU Eindhoven** (2021-2025)  
