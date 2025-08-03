@@ -5,9 +5,9 @@ Enthusiastic recent graduate Data Science student with a passion for using data 
 
 
 ## 🔭 Current Focus  
-- Currently working on a data analysis / web scraping project
+- Currently working on AI/ML projects
 - Deepening my understanding of ML tools and libraries 
-- Learning different online tools like AWS and PowerBI  
+- Learning different online tools like PowerBI  
 
 ## 🛠️ Skills
 - **Languages:** Python, SQL, R, HTML, CSS, Javascript
