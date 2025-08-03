@@ -1,7 +1,7 @@
 # Hi there, I'm Emre👋🏻
 
 ## About Me
-Enthusiastic recent graduate Data Science student with a passion for using data to drive insights and solve real-world problems. Throughout my academic years, I've gained valuable understanding of topics like data analysis, machine learning, and AI, making me want to contribute my skills to my future work.
+Enthusiastic graduate Data Science student with a passion for using data to drive insights and solve real-world problems. Throughout my academic years, I've gained valuable understanding of topics like data analysis, machine learning, and AI, making me want to contribute my skills to my future work.
 
 
 ## 🔭 Current Focus  
