@@ -19,7 +19,7 @@ Enthusiastic graduate Data Science student with a passion for using data to driv
 
 ## 🎓 Education  
 - **Bachelor's Degree** in **Data Science** @ **TU Eindhoven** (2021-2025)  
-- **Minor** in **Technology Entrepreneurship**
+- **Minor** in **Technology Entrepreneurship** @ **TU Eindhoven**
 
 ## 💼 Experience  
 ### **Project Assistant** @ **KoçDigital** (2024 summer internship)  
