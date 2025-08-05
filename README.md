@@ -27,7 +27,7 @@ Enthusiastic graduate Data Science student with a passion for using data to driv
 - Utilized tools like LangChain and LangGraph to streamline the interaction between the chatbot and the PostgreSQL database I created, enhancing the overall workflow.
 - Worked on increasing the chatbot’s accuracy by different methods, such as experimenting with different system prompts, defining new tools, simplifying the database schema, and more.
 
-### **Research Project** @ **TU/e** (Dec 2024 - now)
+### **Research Project** @ **TU/e** (Dec 2024 - May 2025)
 - Collaborating with an assistant professor and a postdoctoral researcher at TU/e to analyze differences between legal documents and assess the impact of public feedback on legislative changes.
 - Applied Python libraries BeatifulSoup and PyMuPDF for plain text conversion, and used regex to extract and compare legal text for detailed analysis.
 
