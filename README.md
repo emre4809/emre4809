@@ -22,7 +22,7 @@ Enthusiastic graduate Data Science student with a passion for using data to driv
 - **Minor** in **Technology Entrepreneurship** @ **TU Eindhoven**
 
 ## 💼 Experience
-### **Startup Internship** @ **certiff** (Aug 2025 - Dec 2025)
+### **Startup Internship** @ **Certiff** (Aug 2025 - Dec 2025)
 - Mainly developed a virtual assistant chatbot for Certiff.com using n8n. Used GPT 4.1-mini as AI model, Supabase for memory, and Pinecone for vector database.
 - Contributed ideas and feedback on potential updates, and reported issues in new changes.
   
