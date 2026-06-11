@@ -22,6 +22,9 @@ Enthusiastic graduate Data Science student with a passion for using data to driv
 - **Minor** in **Technology Entrepreneurship** @ **TU Eindhoven**
 
 ## 💼 Experience
+### **KYC Analyst** @ **bunq** (Feb 2026 - current)
+- Reviewing user accounts and supporting the onboarding and verification process to deliver a hassle-free onboarding experience.
+
 ### **Startup Internship** @ **Certiff** (Aug 2025 - Dec 2025)
 - Mainly developed a virtual assistant chatbot for Certiff.com using n8n. Used GPT 4.1-mini as AI model, Supabase for memory, and Pinecone for vector database.
 - Contributed ideas and feedback on potential updates, and reported issues in new changes.
